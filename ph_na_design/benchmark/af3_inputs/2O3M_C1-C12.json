@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2O3M_C1-C12",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "CGGGAGGGCGCCGGGAGGAGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

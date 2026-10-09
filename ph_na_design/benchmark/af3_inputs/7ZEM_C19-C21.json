@@ -1,0 +1,16 @@
+[
+  {
+    "name": "7ZEM_C19-C21",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "TGGCTAGGGTCAGGGTGGGCCCG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

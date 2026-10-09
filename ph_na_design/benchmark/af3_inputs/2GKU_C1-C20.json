@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2GKU_C1-C20",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "CTGGGTTAGGGTTAGGGTTCGGGA",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

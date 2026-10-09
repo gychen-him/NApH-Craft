@@ -1,0 +1,147 @@
+[
+  {
+    "name": "8PSB_C17-C21",
+    "path": "ph_na_design/benchmark/af3_inputs/8PSB_C17-C21.json",
+    "ph_response": "Y"
+  },
+  {
+    "name": "8JFQ_C3-C11",
+    "path": "ph_na_design/benchmark/af3_inputs/8JFQ_C3-C11.json",
+    "ph_response": "Y"
+  },
+  {
+    "name": "7ZEM_C19-C21",
+    "path": "ph_na_design/benchmark/af3_inputs/7ZEM_C19-C21.json",
+    "ph_response": "Y"
+  },
+  {
+    "name": "7OQT_C9-C11",
+    "path": "ph_na_design/benchmark/af3_inputs/7OQT_C9-C11.json",
+    "ph_response": "Y"
+  },
+  {
+    "name": "6GH0_C10-C18",
+    "path": "ph_na_design/benchmark/af3_inputs/6GH0_C10-C18.json",
+    "ph_response": "Y"
+  },
+  {
+    "name": "8R4W_C3-C14",
+    "path": "ph_na_design/benchmark/af3_inputs/8R4W_C3-C14.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "7X8N_C10-C23",
+    "path": "ph_na_design/benchmark/af3_inputs/7X8N_C10-C23.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "7ATZ_C3-C7",
+    "path": "ph_na_design/benchmark/af3_inputs/7ATZ_C3-C7.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "7ALU_C1-C15",
+    "path": "ph_na_design/benchmark/af3_inputs/7ALU_C1-C15.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "6ZX6_C6-C21",
+    "path": "ph_na_design/benchmark/af3_inputs/6ZX6_C6-C21.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "6XT7_C3-C21",
+    "path": "ph_na_design/benchmark/af3_inputs/6XT7_C3-C21.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "6L8M_C3-C8",
+    "path": "ph_na_design/benchmark/af3_inputs/6L8M_C3-C8.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "6JCD_C16-C21",
+    "path": "ph_na_design/benchmark/af3_inputs/6JCD_C16-C21.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "6FTU_C5-C21",
+    "path": "ph_na_design/benchmark/af3_inputs/6FTU_C5-C21.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "5ZEV_C3-C8",
+    "path": "ph_na_design/benchmark/af3_inputs/5ZEV_C3-C8.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "5YEY_C6-C18",
+    "path": "ph_na_design/benchmark/af3_inputs/5YEY_C6-C18.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "5O4D_C10-C23",
+    "path": "ph_na_design/benchmark/af3_inputs/5O4D_C10-C23.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2O3M_C16-C20",
+    "path": "ph_na_design/benchmark/af3_inputs/2O3M_C16-C20.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2O3M_C17-C19",
+    "path": "ph_na_design/benchmark/af3_inputs/2O3M_C17-C19.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2O3M_C1-C12",
+    "path": "ph_na_design/benchmark/af3_inputs/2O3M_C1-C12.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2M27_C2-C13",
+    "path": "ph_na_design/benchmark/af3_inputs/2M27_C2-C13.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2LPW_C2-C18",
+    "path": "ph_na_design/benchmark/af3_inputs/2LPW_C2-C18.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2KYP_C1-C13",
+    "path": "ph_na_design/benchmark/af3_inputs/2KYP_C1-C13.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2KM3_C11-C14",
+    "path": "ph_na_design/benchmark/af3_inputs/2KM3_C11-C14.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2HY9_C14-C25",
+    "path": "ph_na_design/benchmark/af3_inputs/2HY9_C14-C25.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2GKU_C1-C20",
+    "path": "ph_na_design/benchmark/af3_inputs/2GKU_C1-C20.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2GKU_C13-C24",
+    "path": "ph_na_design/benchmark/af3_inputs/2GKU_C13-C24.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "2F8U_C10-C15",
+    "path": "ph_na_design/benchmark/af3_inputs/2F8U_C10-C15.json",
+    "ph_response": "N"
+  },
+  {
+    "name": "1XAV_C20-C22",
+    "path": "ph_na_design/benchmark/af3_inputs/1XAV_C20-C22.json",
+    "ph_response": "N"
+  }
+]

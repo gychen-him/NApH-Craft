@@ -1,0 +1,16 @@
+[
+  {
+    "name": "6GH0_C10-C18",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGCGAGGAGCGGCGTGGCCGGC",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

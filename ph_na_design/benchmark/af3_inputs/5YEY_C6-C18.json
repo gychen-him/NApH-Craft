@@ -1,0 +1,16 @@
+[
+  {
+    "name": "5YEY_C6-C18",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGGTTCGGGTTTAGGGTTCGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

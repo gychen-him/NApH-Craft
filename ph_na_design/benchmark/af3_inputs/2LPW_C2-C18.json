@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2LPW_C2-C18",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "ACGGGTGGGTGTAAGTGCGGGTGGGT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

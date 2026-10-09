@@ -1,0 +1,16 @@
+[
+  {
+    "name": "8R4W_C3-C14",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "TGCGGGTCAGGGTCGGGTTGGGTAA",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "5ZEV_C3-C8",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGCTACCCGGGTGAGGTGCGGGGT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

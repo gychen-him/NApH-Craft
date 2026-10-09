@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2F8U_C10-C15",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGGCGCGGGCGGAACTGGGCGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

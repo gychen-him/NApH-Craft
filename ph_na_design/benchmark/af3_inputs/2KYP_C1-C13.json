@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2KYP_C1-C13",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "CGGGCGGGCGCGCGGGAGGGT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2M27_C2-C13",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "CCGGGCGGGCCTCGGGCGGGGT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

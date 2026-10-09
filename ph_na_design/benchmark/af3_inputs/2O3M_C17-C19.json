@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2O3M_C17-C19",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "AGGGAGGGCGCTGGGACGCGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

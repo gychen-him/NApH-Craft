@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2HY9_C14-C25",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "AAAGGGGTTAGGGTCAGGGGGTTAGGGGCA",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

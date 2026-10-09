@@ -1,0 +1,16 @@
+[
+  {
+    "name": "8PSB_C17-C21",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "AGGGTAGGGCGGCGGGCACGCGT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

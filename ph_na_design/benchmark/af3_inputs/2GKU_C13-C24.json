@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2GKU_C13-C24",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "TTGGGTTAGGGTCAGGGTTAGGGC",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

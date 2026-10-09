@@ -1,0 +1,16 @@
+[
+  {
+    "name": "6L8M_C3-C8",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGCTCACCGGGCAGTGGGCGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

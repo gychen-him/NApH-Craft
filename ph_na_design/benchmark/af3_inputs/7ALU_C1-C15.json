@@ -1,0 +1,16 @@
+[
+  {
+    "name": "7ALU_C1-C15",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "CGGGAGGTGTGGCCCGGGCGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

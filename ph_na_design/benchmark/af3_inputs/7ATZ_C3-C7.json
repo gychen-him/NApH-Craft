@@ -1,0 +1,16 @@
+[
+  {
+    "name": "7ATZ_C3-C7",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGCCTGCGGGAGAGGGGCTGGGT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

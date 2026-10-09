@@ -1,0 +1,16 @@
+[
+  {
+    "name": "8JFQ_C3-C11",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "TCCGGGAGGCCGGGCGGGAGGAAGAT",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

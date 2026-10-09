@@ -1,0 +1,16 @@
+[
+  {
+    "name": "2KM3_C11-C14",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "AGGGCTAGGGCTACGGCTAGGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "7X8N_C10-C23",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "TGAGGGCGGCGTGGGAATAGGGCA",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "6ZX6_C6-C21",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "CGGGCCCGGGAGGAAGGGGGCGGGA",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

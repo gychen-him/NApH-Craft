@@ -1,0 +1,16 @@
+[
+  {
+    "name": "1XAV_C20-C22",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "TGAGGGTGGGTTAGGGTGGGCAC",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

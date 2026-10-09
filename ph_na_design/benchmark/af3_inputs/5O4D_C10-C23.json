@@ -1,0 +1,16 @@
+[
+  {
+    "name": "5O4D_C10-C23",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGGTAGGGCCGGGGACACAGGGC",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

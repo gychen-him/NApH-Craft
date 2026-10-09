@@ -1,0 +1,16 @@
+[
+  {
+    "name": "7OQT_C9-C11",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "dnaSequence": {
+          "sequence": "GGCTTAGGCTCAGGCTTAGG",
+          "count": 1
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]
