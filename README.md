@@ -1,8 +1,8 @@
-# NA-Craft: pH-Responsive Nucleic Acid Design with NA-MPNN
+# NApH-Craft: pH-Responsive Nucleic Acid Design with NA-MPNN
 
 ## Introduction
 
-NA-Craft designs pH-responsive nucleic acids by scanning cytosine-rich sequence derivatives, folding them with AlphaFold3, and screening C·C+ geometry. Sequence compatibility is scored with NA-MPNN, a deep learning framework for nucleic acid inverse folding and protein–DNA specificity prediction. NA-MPNN extends ProteinMPNN to DNA and RNA.
+NApH-Craft designs pH-responsive nucleic acids by scanning cytosine-rich sequence derivatives, folding them with AlphaFold3, and screening C·C+ geometry. Sequence compatibility is scored with NA-MPNN, a deep learning framework for nucleic acid inverse folding and protein–DNA specificity prediction. NA-MPNN extends ProteinMPNN to DNA and RNA.
 
 This repository is the submission release of `PH-NA-MPNN` `main` (`8140f04`). The upstream NA-MPNN training and inference code is included so the design pipeline can be run from one checkout.
 
@@ -35,8 +35,8 @@ conda install -c pytorch -c nvidia -c conda-forge \
 ### 2. Repository Setup
 
 ```bash
-git clone https://github.com/gychen-him/NA-Craft.git
-cd NA-Craft
+git clone https://github.com/gychen-him/NApH-Craft.git
+cd NApH-Craft
 ```
 
 ### 3. DSSR Installation (Optional, for Structure Analysis)
@@ -196,7 +196,7 @@ The results are saved in `ph_na_design/benchmark/pipeline_output/03_screening_re
 ## Directory Structure
 
 ```
-NA-Craft/
+NApH-Craft/
 ├── inference/                    # Core NA-MPNN inference code
 ├── models/                       # Pre-trained NA-MPNN weights
 ├── ph_na_design/                 # pH-responsive design specialized pipeline
